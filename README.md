@@ -1,6 +1,9 @@
-# FitFindr — Starter Kit
+# FitFindr — Secondhand Wardrobe Styling Agent
 
-This starter kit contains everything you need to begin Project 2.
+> 📹 **Demo Video (3–5 min):** [Watch on YouTube](https://youtu.be/hF7dO5rGr_Y) (`https://youtu.be/hF7dO5rGr_Y`)
+
+FitFindr is an autonomous secondhand wardrobe styling agent powered by Groq and Gradio that searches thrifted listings, styles complete outfits with the user's existing wardrobe, and creates social-ready fit cards.
+
 
 ## What's Included
 
@@ -321,7 +324,8 @@ In accordance with AI usage transparency standards, here is the full record of h
 
 ## Demo Video
 
-- **Link:** [FitFindr 3-Minute Demo Video](https://youtu.be/example-fitfindr-demo) *(replace with your hosted video link)*
+- **Link:** [FitFindr 3–5 Minute Walkthrough on YouTube](https://youtu.be/hF7dO5rGr_Y) (`https://youtu.be/hF7dO5rGr_Y`)
+- **Duration:** 3–5 minutes
 - **What the demo demonstrates:**
   1. Complete multi-step interaction from natural language query to final fit card using all 3 core tools and stretch tools.
   2. Narration explaining each tool invocation, why it was chosen, and how state flows through the session dict.
